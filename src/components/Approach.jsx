@@ -40,7 +40,7 @@ export const Approach = () => {
         </Card>
 
         <Card
-          title="Test & Iterate"
+          title="Testing & Iterate"
           icon={<MagicButton title="Phase 3" asChild />}
           description="Validate designs through usability testing, stakeholder feedback, and data-driven insights, then continuously refine experiences to improve usability, adoption, and business outcomes."
         >
