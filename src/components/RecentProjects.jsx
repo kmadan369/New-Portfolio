@@ -28,15 +28,14 @@ export const RecentProjects = () => {
                     <img
                       src="/bg.png"
                       alt="bg-img"
-                      className="h-full w-full object-cover"
+                      className="h-full w-full object-cover rounded-3xl"
                     />
                   </div>
 
                   <img
                     src={img}
                     alt={title}
-                    className={`absolute bottom-0 z-10 ${id === 4 ? "object-cover" : ""}`}
-                    style={{ height: '300px', width: '464px' }}
+                    className="absolute bottom-0 z-10 h-full w-full rounded-3xl object-cover"
                   />
 
                   {id === 4 && (

@@ -106,7 +106,7 @@ export const projects = [
     id: 4,
     title: "Pente Sites - AI-Powered Website & CRM Platform",
     des: "Build websites, manage customers, and automate workflows with AI in one unified platform.",
-    img: "https://res.cloudinary.com/drhyerkn7/image/upload/v1781685907/Cover_xfuehr.png",
+    img: "https://res.cloudinary.com/drhyerkn7/image/upload/v1781852764/77fe1a73-6385-4435-83b4-3981586abe1e_z1vdnh.png",
     link: "",
     sourceCode: "",
   },
